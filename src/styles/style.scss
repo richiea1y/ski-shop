@@ -1,0 +1,15 @@
+@use "./layouts.scss";
+@use "./components/navigator.scss";
+
+body,
+html {
+  background-color: #212121;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#app {
+  height: 100%;
+  color: #ccc;
+}
